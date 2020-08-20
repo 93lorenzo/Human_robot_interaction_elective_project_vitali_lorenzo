@@ -1,0 +1,20 @@
+IMAGE
+#<*, *, *, *>:  "img/no.jpg"
+<*, *, *, *>:  "img/pepper_come_here.jpg"
+----
+TEXT
+<*,*,*,*>:"PLEASE COME HERE"
+----
+GESTURE
+<*,*,*,*>: animations/Stand/Gestures/You_1
+----
+TTS
+<*,*,it,*>:"Ciao! Vieni qui!"
+<*,*,*,*>:"Hello! Come here!"
+----
+
+# bug 
+#TTS
+#<*,*,it,*>:"Ciao! Vieni qui!"
+#<*,*,*,*>:"Hello! Come here!"
+

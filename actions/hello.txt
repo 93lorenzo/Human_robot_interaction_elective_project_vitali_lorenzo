@@ -1,0 +1,15 @@
+IMAGE
+#<*, *, *, *>:  "img/yes.jpg"
+<*, *, *, *>:  "img/pepper_hello.jpg"
+----
+TEXT
+<*,*,*,*>:"HELLO"
+----
+GESTURE
+#<*,*,*,*>: animations/Stand/Gestures/Hey_1
+----
+TTS
+#<*,*,it,*>:"Ciao! Posso Aiutarti?"
+#<*,*,*,*>:"Hello! Can I help you?"
+----
+
